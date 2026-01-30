@@ -3,6 +3,7 @@ These folders contain infromation regarding the Smith lab's bioinformatic resear
 
 # Onboarding
 [Onboarding and FAQ](/Onboarding%20and%20FAQ)
-# 2026
+# Publications
+## 2026
 
 [Sow et al. 2026 Rapid detection of cultivated truffle fungi from root tips using loop-mediated isothermal amplification](/Sow%20et%20al%202026)
