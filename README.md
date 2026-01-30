@@ -1,0 +1,2 @@
+# Matthew E. Smith Lab at The University of Florida
+These folders contain infromation regarding the Smith lab's bioinformatic research on fungal ecology, evolution, and systematics. To find the code used for specific publications, click the appropriate link below. If you are an onboarding lab member, click the Onboarding link below for information on best practices, commonly used scripts, and helpful tips. 
