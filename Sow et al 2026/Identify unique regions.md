@@ -1,6 +1,7 @@
 # Identifying unique sequences using fur
 ## Required Files
 ## Required Programs
+[```datasets```](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/): NCBI Datasets Command Line Tools  
 [```fur```](https://github.com/EvolBioInf/fur): Find Unique Regions  
 [```SeqKit```](https://github.com/shenwei356/seqkit): A cross-platform and ultrafast toolkit for FASTA/Q file manipulation  
 [```bioawk```](https://github.com/lh3/bioawk): BWK awk modified for biological data
@@ -8,6 +9,14 @@
 ### First we download the genomes from NCBI
 In this paper we used...
 ```
+datasets download genome accession GCA_008704415
+datasets download genome accession GCA_900010015
+datasets download genome accession GCA_003070745
+datasets download genome accession GCA_014065205
+datasets download genome accession GCA_014065215
+datasets download genome accession GCA_006112555
+datasets download genome accession GCA_003182015
+datasets download genome accession GCA_000151645	
 ```
 ### Then we move all of the out-group and in-group species to a seperate folders. 
 ### Next we make a ```fur``` database.
