@@ -1,1 +1,1 @@
-This folder contains the code used in **Rapid detection of cultivated truffle fungi from root tips using loop-mediated isothermal amplification**
+This folder contains the code used in **Rapid detection of cultivated truffle fungi from root tips using loop-mediated isothermal amplification**. The Unique Regions folder contains target sequences and the Primers folder contains both the unverified and published primer sets for each species. Please reach out to Alassane Sow (a.sow@ufl.edu) with any questions!
