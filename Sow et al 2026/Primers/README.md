@@ -1,0 +1,1 @@
+These files are the NEB LAMP Primer Designer Tool outputs. The **Published** folder contains the LAMP primer sets that we confirmed were sensitive and species-specific. The **Unpublished** folder contains LAMP primer sets that we did not test or that we found to be unsuitable. 
