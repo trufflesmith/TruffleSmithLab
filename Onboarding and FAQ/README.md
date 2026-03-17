@@ -33,7 +33,7 @@ Check the installed libraries and install any that you need
 install.packages("adegenet")
 installed.packages()
 ```
-Using R just on the command-line will be much faster than your computer. However, if commands are still taking a long time, you can create an R script and run it as a job. To do this you need two files, 1) an R script, and 2) a shell script.  
+Using R just on the command-line is  much faster than your computer. However, if commands are still taking a long time, you can create an R script and run it as a job. To do this you need two files, 1) an R script, and 2) a shell script.  
   
 First you write your R script as you would on your computer. See `parallel_pca.R` below as an example.
 ```R
