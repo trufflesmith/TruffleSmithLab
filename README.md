@@ -7,4 +7,4 @@ These folders contain infromation regarding the Smith lab's bioinformatic resear
 ## 2026
 
 [Sow et al. 2026 Rapid detection of cultivated truffle fungi from root tips using loop-mediated isothermal amplification](/Sow%20et%20al%202026)  
-[Willis et al. 2026 XXXXXX](/Willis%20et%20al%202026)
+[Willis et al. 2026 Two new species of Exobasidium from eastern North America](/Willis%20et%20al%202026)
