@@ -1,1 +1,1 @@
-THis is files in my paeor
+This folder contains the files and code used in Two new species of Exobasidium from eastern North America. The alignments folder contains MAFFT alignments (ITS, 28S, and ITS+28S) used in this study. Please reach out to Benton Willis (cabewillis@gmail.com) with any questions!
