@@ -1,1 +1,1 @@
-This folder contains the R code used in Bug Meets Gall: Interactions between Arthropods and Exobasidium fungi in North America. Please reach out to Benton Willis (cabewillis@gmail.com) with any questions!
+This folder contains the R code and files used to generate the figures in Bug Meets Gall: Interactions between Arthropods and Exobasidium fungi in North America. These files were taken directly and edited from Supplementary Table I for compatibility in R. Please reach out to Benton Willis (cabewillis@gmail.com) with any questions!
