@@ -1,0 +1,1 @@
+This folder contains the R code used in Bug Meets Gall: Interactions between Arthropods and Exobasidium fungi in North America. Please reach out to Benton Willis (cabewillis@gmail.com) with any questions!
