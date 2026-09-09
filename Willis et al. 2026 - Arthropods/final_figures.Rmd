@@ -6,9 +6,7 @@ output: html_document
 ---
 
 ``` {r temp chat mapping}
-# -------------------------------------------------------------
-# 0. Packages ------------------------------------------------
-# -------------------------------------------------------------
+# Packages 
 # install these only once
 # install.packages(c("sf","ggplot2","readxl","ggmap","ggspatial", "terra", "geodata", "tidyterra", "raster", "svglite"))
 
